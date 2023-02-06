@@ -21,7 +21,7 @@ essentially with Python and SQL
     <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlooppear&show_icons=true&theme=onedark)](https://github.com/devlooppear/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlooppear&show_icons=true&layout=compact)](https://github.com/devlooppear/github-readme-stats)
 
 ## Contact:
 - iago.profissional.devloper@gmail.com
