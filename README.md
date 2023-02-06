@@ -12,7 +12,7 @@ essentially with Python and SQL
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-silva-42130b209/)
 
-![Devlooppear GitHub Stats](https://github-readme-stats.vercel.app/api?username=devlooppear&show_icons=true&theme=onedark)
+![Devlooppear GitHub Stats](https://github-readme-stats.vercel.app/api?username=devlooppear&show_icons=true&theme=dark)
 
 ## Tecnologias do dia a dia
 
@@ -21,7 +21,8 @@ essentially with Python and SQL
     <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlooppear&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlooppear&show_icons=true&theme=dark)](https://github.com/devlooppear/github-readme-stats)
 
 ## Contact:
 - iago.profissional.devloper@gmail.com
+
