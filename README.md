@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi. I'am Iago! 😃🤚
 
-<!--
-**devlooppear/devlooppear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer RPA and Data Science, essenciality with Python and SQL
 
-Here are some ideas to get you started:
+```python
+wake_up = True
+if wake_up == True:
+    print("Let's Code!")
+elif wake_up == False:
+    print("Sleeping to code more After!")
+```
+[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-silva-42130b209/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Devlooppear GitHub Stats](https://github-readme-stats.vercel.app/api?username=devlooppear&show_icons=true&theme=onedark)
+
+## Tecnologias do dia a dia
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</div><br/>
+
+## Contato:
+- iago.profissional.devloper@gmail.com
