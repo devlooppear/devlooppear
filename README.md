@@ -8,7 +8,7 @@ elif wake_up == False:
     print("Sleeping to code more After!")
 ```
 Developer RPA and Data Science, 
-essentially with Python and SQL
+essentially with Python and SQL. I also make other things like Frontend or Backend
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-silva-42130b209/)
 
@@ -25,4 +25,3 @@ essentially with Python and SQL
 
 ## Contact:
 - iago.profissional.devloper@gmail.com
-
