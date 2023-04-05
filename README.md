@@ -4,7 +4,7 @@
 wake_up = True
 if wake_up == True:
     print("Let's Code!")
-elif wake_up == False:
+else:
     print("Sleeping to code more After!")
 ```
 Developer RPA and Data Science, 
