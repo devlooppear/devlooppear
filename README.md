@@ -15,13 +15,12 @@ https://www.linkedin.com/in/iago-silva-42130b209/
 ## Commits, status, and markup, styling, and programming languages.
 
 <div style="display:table; justify-content:center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=devlooppear&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlooppear&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlooppear&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 0px 5px 10px 10px; width: 28%">
+    <img src="https://github-readme-stats.vercel.app/api?username=devlooppear&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px; width: 42%;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devlooppear&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devlooppear&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devlooppear&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
 </div>
-
 
 ## Contact:
 - iago.profissional.developer@gmail.com;
