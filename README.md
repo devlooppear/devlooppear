@@ -44,25 +44,9 @@ Social
   justify-content: center;
   align-items: center;
   gap: 10px;
-}
-
-.container {
-  flex: 1 1 33.33%;
-  align-items: center;
   text-align: center;
 }
 
-@media (max-width: 768px) {
-  .container {
-      flex: 1 1 50%;
-  }
-}
-
-@media (max-width: 576px) {
-  .container {
-      flex: 1 1 100%;
-  }
-}
 </style>
 </head>
 
