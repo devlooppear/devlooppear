@@ -29,14 +29,15 @@ I'm a Full-Stack Web Developer with a strong focus on backend development. My co
 Instagram: [Follow me on Instagram](https://www.instagram.com/devlooppear/);
 Resume: [My resume on my website](https://aboutmedevlooppear.netlify.app/)
 
-Contact Me:
-📧 Email: iago.profissional.developer@gmail.com
-🌐 [LinkedIn](https://www.linkedin.com/in/iago-silva-42130b209/)
+### Contact Me:
+
+- 📧 Email: iago.profissional.developer@gmail.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/iago-silva-42130b209/)
 Social
 
 ## Commits, Stats, and Programming Languages:
 
-<head>
+
 <style>
 .grid {
   display: flex;
@@ -46,9 +47,8 @@ Social
   gap: 10px;
   text-align: center;
 }
-
 </style>
-</head>
+
 
 <div class="grid">
   <div class="container"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devlooppear&show_icons=true&theme=2077" style="border: 2px solid lightblue; border-radius: 5px; margin: 10px;"></div>
