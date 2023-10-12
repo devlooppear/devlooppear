@@ -36,8 +36,38 @@ Social
 
 ## Commits, Stats, and Programming Languages:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <div class="container" style="padding: 3px;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devlooppear&show_icons=true&theme=2077" style="border: 2px solid lightblue; border-radius: 5px; margin: 10px;"></div>
-  <div class="container" style="padding: 3px;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devlooppear&show_icons=true&theme=2077" style="border: 2px solid lightblue; border-radius: 5px; margin: 10px;"></div>
-  <div class="container" style="padding: 3px;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devlooppear&show_icons=true&theme=2077" style="border: 2px solid lightblue; border-radius: 5px; margin: 10px;"></div>
+<head>
+<style>
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.container {
+  flex: 1 1 33.33%;
+  align-items: center;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .container {
+      flex: 1 1 50%;
+  }
+}
+
+@media (max-width: 576px) {
+  .container {
+      flex: 1 1 100%;
+  }
+}
+</style>
+</head>
+
+<div class="grid">
+  <div class="container"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devlooppear&show_icons=true&theme=2077" style="border: 2px solid lightblue; border-radius: 5px; margin: 10px;"></div>
+  <div class="container"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devlooppear&show_icons=true&theme=2077" style="border: 2px solid lightblue; border-radius: 5px; margin: 10px;"></div>
+  <div class="container"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devlooppear&show_icons=true&theme=2077" style="border: 2px solid lightblue; border-radius: 5px; margin: 10px;"></div>
 </div>
