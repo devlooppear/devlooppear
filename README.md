@@ -38,19 +38,14 @@ Social
 ## Commits, Stats, and Programming Languages:
 
 
-<style>
-.grid {
+<div class="grid" style="
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
   gap: 10px;
   text-align: center;
-}
-</style>
-
-
-<div class="grid">
+">
   <div class="container"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devlooppear&show_icons=true&theme=2077" style="border: 2px solid lightblue; border-radius: 5px; margin: 10px;"></div>
   <div class="container"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devlooppear&show_icons=true&theme=2077" style="border: 2px solid lightblue; border-radius: 5px; margin: 10px;"></div>
   <div class="container"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devlooppear&show_icons=true&theme=2077" style="border: 2px solid lightblue; border-radius: 5px; margin: 10px;"></div>
