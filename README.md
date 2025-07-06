@@ -57,7 +57,7 @@ I'm a Full-Stack Web Developer with a strong focus on backend development. My co
   <a href="https://www.instagram.com/devlooppear/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://aboutmedevlooppear.netlify.app/" target="_blank">
+  <a href="https://iago-silva-myportfoli.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Website-blue?style=for-the-badge" alt="Resume"/>
   </a>
   <a href="mailto:iago.profissional.developer@gmail.com">
