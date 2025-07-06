@@ -47,7 +47,7 @@ I'm a Full-Stack Web Developer with a strong focus on backend development. My co
 
 - Backend development with Java (Quarkus, SpringBoot), PHP Laravel, Node.js (NestJS), SQL;
 - Server creation, route management, and user authentication;
-- Integration with relational databases: MySQL, PostgreSQL, **OracleDB**;
+- Integration with relational databases: MySQL, PostgreSQL, OracleDB;
 - Non-relational databases: MongoDB;
 - Frontend development with HTML, CSS, JavaScript, and React (with TypeScript), including Bootstrap;
 
