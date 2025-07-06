@@ -27,7 +27,7 @@ if (wakeUp) {
 
 
 
-I'm a Full-Stack Web Developer with a strong focus on backend development. My core technologies now include Java (Quarkus & SpringBoot), PHP Laravel, Node.js, Python, and SQL. I'm passionate about independent projects and have a strong commitment to web development, especially backend, using Java (Quarkus, SpringBoot), PHP Laravel, Node.js, Python, Docker, and SQL.
+I'm a Brazilian Full-Stack Web Developer with a strong focus on backend development. My core technologies now include Java (Quarkus & SpringBoot), PHP Laravel, Node.js, Python, and SQL. I'm passionate about independent projects and have a strong commitment to web development, especially backend, using Java (Quarkus, SpringBoot), PHP Laravel, Node.js, Python, Docker, and SQL.
 
 
 ## My Skills
